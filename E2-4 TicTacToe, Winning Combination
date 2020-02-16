@@ -1,0 +1,50 @@
+E2-4 TicTacToe, Winning Combination
+
+. . .
+. . X
+. . .
+ 
+Enter row: 2
+Enter column: 2
+ 
+. . .
+. O X
+. . .
+ 
+ 
+. . .
+X O X
+. . .
+ 
+Enter row: 3
+Enter column: 1
+ 
+. . .
+X O X
+O . .
+ 
+ 
+. . X
+X O X
+O . .
+ 
+Enter row: 3
+Enter column: 3
+ 
+. . X
+X O X
+O . O
+ 
+ 
+X . X
+X O X
+O . O
+ 
+Enter row: 3
+Enter column: 2
+ 
+X . X
+X O X
+O O O
+ 
+Game ended. Winner:  O
